@@ -39,5 +39,5 @@
 </details>
 <hr>  
 
-<pre>... arquivo em desenvolvimento, aguarde para mais atualizações.</pre>
+[➜ Como rodar o código ?](https://github.com/PUC-DISCIPLINAS/chat-multicast-java-ricardochristovao/wiki/Como-rodar-o-c%C3%B3digo-do-programa-%3F)
 
